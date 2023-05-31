@@ -1,0 +1,5 @@
+CAT;Covid-19 Antigen Test;1000.0;
+CBT;Covid-19 Antibody Test;500.0;
+CRp;Covid-19 RT-PCR;2000.0;D;wrong capitalization;
+crp;wrong capitalziaion;0.0;D;wrong capitalization;
+CRP;Covid-19 RT-PCR;2000.0;
